@@ -1,9 +1,9 @@
 
-
+import Test from "./test"
 function App() {
   
   return (
-   <h1>hello</h1>
+  <Test/>
   )
 }
 
